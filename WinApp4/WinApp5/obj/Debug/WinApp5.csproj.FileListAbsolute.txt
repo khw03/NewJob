@@ -1,0 +1,10 @@
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\bin\Debug\WinApp5.exe.config
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\bin\Debug\WinApp5.exe
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\bin\Debug\WinApp5.pdb
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.frmClient.resources
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.exe
+C:\Users\KOSTA\source\repos\WinApp4\WinApp5\obj\Debug\WinApp5.pdb
